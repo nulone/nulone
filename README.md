@@ -10,6 +10,8 @@ Building CLI tools and AI integrations.
 
 **[mcp-learning-memory](https://github.com/nulone/mcp-learning-memory)** — MCP server for AI agent memory that learns from feedback.
 
+**[doc-drift-guard](https://github.com/nulone/doc-drift-guard)** — CLI to verify Python imports in markdown docs still exist in source code.
+
 ## Stack
 
 Python • TypeScript • CLI tools • LLM integrations
