@@ -4,7 +4,7 @@ Building CLI tools and AI integrations.
 
 ## Projects
 
-**[jq-synth](https://github.com/nulone/jq-synth)** — Generate jq filters from input/output examples. No more guessing syntax.
+**[jq-by-example](https://github.com/nulone/jq-synth)** — Generate jq filters from input/output examples. No more guessing syntax.
 
 **[pytest-adversarial](https://github.com/nulone/pytest-adversarial)** — LLM-powered adversarial test generation for Python.
 
