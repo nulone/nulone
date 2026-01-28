@@ -4,7 +4,7 @@ Building CLI tools and AI integrations.
 
 ## Projects
 
-**[claude-rules-doctor]([claude-rules-doctor](https://github.com/nulone/claude-rules-doctor))** - Catch dead Claude rules before they silently do nothing.
+**[claude-rules-doctor](https://github.com/nulone/claude-rules-doctor))** - Catch dead Claude rules before they silently do nothing.
 
 **[jq-by-example](https://github.com/nulone/jq-synth)** — Generate jq filters from input/output examples. No more guessing syntax.
 
